@@ -1,0 +1,19 @@
+requirements: node, npm, angular/cli (globally installed)
+
+npm install
+npm start
+npm build
+
+Create new display components:
+(in App or Dash folder)
+  1) Copy an existing component to a new file
+    - change selector name (all lower case with - )
+    - change class name ( capitalized camel case [PascalCase] )
+  2) in AppModule (or DashModule) import and declare the new component
+
+  Create a new Service function to load from server
+  1) copy an existing function getSomething() to getNewThing()
+      - change function name, url
+  2) copy an existing parse
+      - move data to data model
+

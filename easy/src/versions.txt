@@ -1,0 +1,18 @@
+Angular CLI: 1.7.4
+Node: 11.9.0
+OS: darwin x64
+Angular: 5.2.11
+... common, compiler, compiler-cli, core, forms, http
+... platform-browser, platform-browser-dynamic, router
+
+@angular/cli: 1.7.4
+@angular/language-service: 7.1.4
+@angular-devkit/build-optimizer: 0.3.2
+@angular-devkit/core: 0.3.2
+@angular-devkit/schematics: 0.3.2
+@ngtools/json-schema: 1.2.0
+@ngtools/webpack: 1.10.2
+@schematics/angular: 0.3.2
+@schematics/package-update: 0.3.2
+typescript: 2.5.3
+webpack: 3.11.0
